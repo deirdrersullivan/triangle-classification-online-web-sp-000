@@ -19,7 +19,7 @@ end
 end
 
 def validate_triangle
-  
+  real_triangle 
 
   
  
