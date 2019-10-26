@@ -1,5 +1,5 @@
 class Triangle
-  
+  attr_accesor:
  
   class TriangleError < StandardError
     
