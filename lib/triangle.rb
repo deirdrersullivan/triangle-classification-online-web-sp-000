@@ -9,7 +9,8 @@ end
 
 def kind 
   if a == b && b == c 
-  
+    :equilateral
+  if a
  
   class TriangleError < StandardError
     
