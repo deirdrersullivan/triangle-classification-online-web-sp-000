@@ -8,7 +8,8 @@ def initialize (a, b, c)
 end 
 
 def kind 
-  if @a==
+  if a == b && b == c 
+  
  
   class TriangleError < StandardError
     
