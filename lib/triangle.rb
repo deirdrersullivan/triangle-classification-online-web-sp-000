@@ -10,7 +10,7 @@ end
 def kind 
   if a == b && b == c 
     :equilateral
-  elsif a == b || b == c ||
+  elsif a == b || b == c || a == c |
   
  
   class TriangleError < StandardError
