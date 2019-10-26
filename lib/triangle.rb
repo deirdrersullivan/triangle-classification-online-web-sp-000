@@ -1,3 +1,2 @@
-class Triangle
-  # write code here
-end
+
+puts beyonce.name
