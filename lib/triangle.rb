@@ -18,7 +18,8 @@ def kind
 end 
 end
 
-
+def validate_triangle
+  
 
   
  
