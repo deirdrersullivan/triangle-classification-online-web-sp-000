@@ -1,5 +1,5 @@
 class Triangle
-  attr_accesor:
+  attr_reader :
  
   class TriangleError < StandardError
     
