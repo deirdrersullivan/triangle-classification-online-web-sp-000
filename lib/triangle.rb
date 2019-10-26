@@ -1,2 +1,7 @@
-
-puts beyonce.name
+class Triangle
+  
+ 
+  class TriangleError < StandardError
+    
+  end
+end
