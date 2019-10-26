@@ -8,6 +8,7 @@ def initialize (a, b, c)
 end 
 
 def kind 
+  validate triangle
   if a == b && b == c 
     :equilateral
   elsif a == b || b == c || a == c 
@@ -16,6 +17,7 @@ def kind
     :scalene 
 end 
 end
+
 
 
   
