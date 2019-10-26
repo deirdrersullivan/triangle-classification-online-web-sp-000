@@ -5,7 +5,10 @@ def initialize (a, b, c)
   @a= a 
   @b= b
   @c= c
+end 
 
+def kind 
+  if @a==
  
   class TriangleError < StandardError
     
